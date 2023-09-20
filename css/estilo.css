@@ -1,0 +1,33 @@
+body {
+    background-color: lightgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+div {
+    border-bottom: 1px gray solid;
+    font-size: 20px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 930px;
+}
+
+span {
+    font-weight: bold;
+    color: crimson;
+}
+
+a {
+    text-decoration: none;
+    background-color: palevioletred;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 12px;
+}
+
+h1 h2 h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
