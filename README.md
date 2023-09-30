@@ -18,7 +18,7 @@ P03-Book 📘📖 - This file is about my second project using CSS language. I u
 
 
 <h3> 📱 Mobile </h3>
-<img src = "https://github.com/taiscostaeng/front-p03-book/assets/138815703/45840b43-a30a-48c1-be0c-81246f43420a">
+<img src = "https://github.com/taiscostaeng/front-p03-book/assets/138815703/12ef1c1f-6e2f-4aa2-96ba-a61ac6671b6d" width = 200px>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> ✨😊 Do you want to contribue on this project? </h2>
